@@ -22,7 +22,7 @@ Posibles referencias:
 -	https://pngtree.com/freepng/golden-ball-free-map_4437662.html 
 
 
-
+https://github.com/mdgarciaaguilar/ProyectoGraficas/blob/main/foto.png
 
 
 ## Avance 2
