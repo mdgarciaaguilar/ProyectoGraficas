@@ -16,6 +16,8 @@ Para comenzar, solo debes descargar el proyecto y abrir el archivo de quidditch.
 Idea: Realizaré el campo de Quidditch de Harry Potter. Dibujaré las torres y el campo. También voy a incluir una snitch, que será un objeto circular. La snitch podrá trasladarse y estará rotando.
 
 Foto de referencia:
+
+
 ![](avance1/ejemplo.png)
  
 Posibles referencias: 
@@ -35,4 +37,15 @@ Se incluyó el framework de Three.js, ademas de que realicé la snitch (que es u
 Se agregó el fondo de nubes y el piso de la escena, también se dibujó el campo de Quidditch, con sus torres. Se agregó la funcionalidad de que al dar click en la pantalla, la snitch cambie de posición de manera aleatoria.
 
 ![](foto.png)
+
+## Vídeo de funcionamiento final
+https://youtu.be/4G6inlw8H_o
+
+## Referencias de recursos utilizados
+- https://webglfundamentals.org
+- https://threejs.org
+- https://es.m.wikipedia.org/wiki/Archivo:Appearance_of_sky_for_weather_forecast,_Dhaka,_Bangladesh.JPG
+- https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/mantener-verde-el-pasto-mabelamber.jpg
+- https://www.youtube.com/watch?v=6oFvqLfRnsU
+
 
